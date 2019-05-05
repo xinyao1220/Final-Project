@@ -1,4 +1,5 @@
 # Flappy Birds
+<img width="567" alt="屏幕快照 2019-05-04 下午10 50 43" src="https://user-images.githubusercontent.com/47285199/57200030-240b8880-6f3b-11e9-98e4-8d818c027d42.png">
 
 It is a interactive game with a creepy vibrating bird jump over the galaxy obstacles by clicking up arrow key.
 
