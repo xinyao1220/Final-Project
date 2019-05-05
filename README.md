@@ -158,6 +158,7 @@ function keyPressed() {
 }
 
 ```
+<img width="723" alt="屏幕快照 2019-05-05 下午1 43 09" src="https://user-images.githubusercontent.com/47285199/57200131-7bf6bf00-6f3c-11e9-82e1-12765479ade6.png">
 
 ## References
 
